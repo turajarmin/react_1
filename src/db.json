@@ -1,0 +1,13 @@
+{
+  "menu":[
+    {"id":1,"name":"home","link":"https://google.com","dropdown":[]},
+    {"id":2,"name":"about","link":"https://google.com","dropdown":[]},
+    {"id":3,"name":"contact","link":"https://google.com","dropdown":[]},
+    {"id":4,"name":"gallery","link":"https://google.com","dropdown":[
+        {"id":1,"name":"gallery-1","link":"https://google.com"},
+        {"id":2,"name":"gallery-2","link":"https://google.com"},
+        {"id":3,"name":"gallery-3","link":"https://google.com"},
+        {"id":4,"name":"gallery-4","link":"https://google.com"}
+    ]}
+  ]
+}
